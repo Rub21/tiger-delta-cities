@@ -1,0 +1,14 @@
+{
+  "name": "tiger-delta-cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Lopez M <ruben@mapbox.com> (http://rub21.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "turf-bbox": "^3.0.12"
+  }
+}
